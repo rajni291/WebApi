@@ -9,6 +9,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Dynamic;
 using System.Linq;
 using System.Net.Http;
@@ -33,8 +34,8 @@ using Xunit;
 #else
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Dynamic;
 using System.Linq;
 using System.Net.Http;
